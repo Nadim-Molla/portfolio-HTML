@@ -16,3 +16,4 @@
  - Version Control: Git and Github
 
  6. Basic structure of HTML 
+      -head and body
